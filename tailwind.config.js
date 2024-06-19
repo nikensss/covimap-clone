@@ -28,9 +28,15 @@ export default {
         strongGray: "#0000001a",
         darkBlue: "#0c0c0d",
         steel: "#888888",
-        chiffon: "#fff2f2",
+        lightRed: "#fff2f2",
         navyBlue: "#1a1662",
-        whisper: "#eee"
+        whisper: "#eee",
+        brightRed: "#ff0000",
+        brightOrange: "#ff6a07",
+        brightGreen: "#82c519",
+        lightOrange: "#fff9f1",
+        lightGreen: "#edffec",
+        lightBlue: "#eefbff"
 
       },
       fontFamily: {

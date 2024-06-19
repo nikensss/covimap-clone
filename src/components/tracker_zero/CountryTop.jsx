@@ -3,7 +3,7 @@ const CountryTop = () => {
     <>
       <h4 className="mt-5 mb-4 font-semibold">Top 10 Country</h4>
       <ul className="list-none">
-        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid">
+        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid hover:scale-105 hover:scale-105">
           <img
             className="w-10 rounded align-middle inline-block"
             src="https://placehold.co/200"
@@ -14,7 +14,7 @@ const CountryTop = () => {
             86503057
           </h6>
         </li>
-        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid">
+        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid hover:scale-105">
           <img
             className="w-10 rounded align-middle inline-block"
             src="https://placehold.co/200"
@@ -25,7 +25,7 @@ const CountryTop = () => {
             86503057
           </h6>
         </li>
-        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid">
+        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid hover:scale-105">
           <img
             className="w-10 rounded align-middle inline-block"
             src="https://placehold.co/200"
@@ -36,7 +36,7 @@ const CountryTop = () => {
             86503057
           </h6>
         </li>
-        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid">
+        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid hover:scale-105">
           <img
             className="w-10 rounded align-middle inline-block"
             src="https://placehold.co/200"
@@ -47,7 +47,7 @@ const CountryTop = () => {
             86503057
           </h6>
         </li>
-        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid">
+        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid hover:scale-105">
           <img
             className="w-10 rounded align-middle inline-block"
             src="https://placehold.co/200"
@@ -58,7 +58,7 @@ const CountryTop = () => {
             86503057
           </h6>
         </li>
-        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid">
+        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid hover:scale-105">
           <img
             className="w-10 rounded align-middle inline-block"
             src="https://placehold.co/200"
@@ -69,7 +69,7 @@ const CountryTop = () => {
             86503057
           </h6>
         </li>
-        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid">
+        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid hover:scale-105">
           <img
             className="w-10 rounded align-middle inline-block"
             src="https://placehold.co/200"
@@ -80,7 +80,7 @@ const CountryTop = () => {
             86503057
           </h6>
         </li>
-        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid">
+        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid hover:scale-105">
           <img
             className="w-10 rounded align-middle inline-block"
             src="https://placehold.co/200"
@@ -91,7 +91,7 @@ const CountryTop = () => {
             86503057
           </h6>
         </li>
-        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid">
+        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid hover:scale-105">
           <img
             className="w-10 rounded align-middle inline-block"
             src="https://placehold.co/200"
@@ -102,7 +102,7 @@ const CountryTop = () => {
             86503057
           </h6>
         </li>
-        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid">
+        <li className="mb-3 p-1 block rounded shadow-md border-1 border-whisper border-solid hover:scale-105">
           <img
             className="w-10 rounded align-middle inline-block"
             src="https://placehold.co/200"
