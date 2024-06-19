@@ -25,6 +25,13 @@ export default {
         danger: "#E50202",
         light: " #F8F9FE",
         dark: "#262F5A",
+        strongGray: "#0000001a",
+        darkBlue: "#0c0c0d",
+        steel: "#888888",
+        chiffon: "#fff2f2",
+        navyBlue: "#1a1662",
+        whisper: "#eee"
+
       },
       fontFamily: {
         sans: [
@@ -59,6 +66,9 @@ export default {
         breakpointXl: "1200px",
         breakpointXxl: "1440",
       },
+      boxShadow: {
+        md: "0px 1px 10px rgba(0, 0, 0, 0.06)"
+      }
     },
     plugins: [],
   },
