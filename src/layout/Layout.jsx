@@ -6,7 +6,7 @@ const Layout = () => {
   return (
     <div>
       <Navbar />
-      {/* <TrackerZero /> */}
+       <TrackerZero /> 
       <main>
         <Outlet />
       </main>

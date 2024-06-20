@@ -1,9 +1,9 @@
 import React from 'react'
-import Card from '../../components/card/Card'
+// import Card from '../../components/card/Card'
 const Tracker2 = () => {
   return (
     <div>
-      <Card />
+      {/* <Card /> */}
     </div>
   )
 }
