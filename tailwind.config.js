@@ -36,8 +36,7 @@ export default {
         brightGreen: "#82c519",
         lightOrange: "#fff9f1",
         lightGreen: "#edffec",
-        lightBlue: "#eefbff"
-
+        lightBlue: "#eefbff",
       },
       fontFamily: {
         sans: [
@@ -73,8 +72,11 @@ export default {
         breakpointXxl: "1440",
       },
       boxShadow: {
-        md: "0px 1px 10px rgba(0, 0, 0, 0.06)"
-      }
+        md: "0px 1px 10px rgba(0, 0, 0, 0.06)",
+      },
+      lineHeight: {
+        100: "5.5rem",
+      },
     },
     plugins: [],
   },
