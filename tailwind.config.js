@@ -59,6 +59,9 @@ export default {
         breakpointXl: "1200px",
         breakpointXxl: "1440",
       },
+      lineHeight: {
+        100: "5.5rem",
+      },
     },
     plugins: [],
   },
