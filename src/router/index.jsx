@@ -11,7 +11,7 @@ import Tracker6 from "../pages/tracker6/Tracker6.jsx";
 export const router = createBrowserRouter([
   { path: "/", element: <Home /> },
   {
-    path: "/tracker",
+    // path: "/tracker",
     element: <Layout />,
     children: [
       {

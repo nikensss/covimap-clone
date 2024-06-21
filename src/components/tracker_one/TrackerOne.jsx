@@ -1,5 +1,15 @@
 import Card from "../card/Card"
 import "./trackerOne.css"
+import { covidColors } from "../../data/colors"
+
+const colors = [
+    "brightRed",
+    "brightOrange",
+    "brightGreen",
+    "brick", 
+    "cobalt",
+    "primary",
+]
 const TrackerOne = () => {
   return (
     
@@ -19,12 +29,13 @@ const TrackerOne = () => {
         </div>
         <div id="row" className="flex flex-wrap mr-[-15px] ml-[-15px];">
             <div id="rightInfo" className="flex flex-wrap mr-[-15px] ml-[-15px] px-[15px];">
-                <Card />
-                <Card />
-                <Card />
-                <Card />
-                <Card />
-                <Card />
+               { 
+                covidColors.map(item =>{
+                    return <Card key={item.title} item={item}/>
+                }
+
+                )
+               }
             </div>
             <div className="Mapa"></div>
         </div>
