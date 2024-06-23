@@ -6,7 +6,7 @@ const Layout = () => {
   return (
     <div className="box-border m-0 p-0">
       <Navbar />
-       <TrackerZero /> 
+      <TrackerZero />
       <main>
         <Outlet />
       </main>
